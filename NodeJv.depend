@@ -1,9 +1,0 @@
-# depslib dependency file v1.0
-1604212979 source:c:\users\tangcheng\desktop\js\nodejv\nodejv\main.cpp
-	<bits/stdc++.h>
-	<winsock2.h>
-	<windows.h>
-	<gl/glut.h>
-	<openssl/md5.h>
-	<curl/curl.h>
-
