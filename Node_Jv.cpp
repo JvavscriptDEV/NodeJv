@@ -242,7 +242,7 @@ void Dispatch_message(string arg)
 			ZeroMemory(tmp, sizeof(tmp));
 		}
 	}
-	else if (!strncmp(arg.c_str(), "console.log(\"", strlen("console.log（\"")))
+	else if (!strncmp(arg.c_str(), "console.log(\"", strlen("console.log(\"")))
 	{
 		if (arg[arg.size() - 1] != ';')
 			error(0);
